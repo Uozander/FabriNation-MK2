@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/BEALJ1/Documents/GitHub/FabriNation-MK2/FabriCombat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/CB/NKJ0OJKQBR08V1J7PJEXD6.uasset",
+				"C:/Users/BEALJ1/Documents/GitHub/FabriNation-MK2/FabriCombat/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/BEALJ1/Documents/GitHub/FabriNation-MK2/FabriCombat/Content/CE_StickImpact.uasset",
+				"C:/Users/BEALJ1/Documents/GitHub/FabriNation-MK2/FabriCombat/Content/WG_Player.uasset",
+				"C:/Users/BEALJ1/Documents/GitHub/FabriNation-MK2/FabriCombat/Content/BP_Citizen.uasset",
 				"C:/Users/Jason/Documents/Unreal Projects/FabriCombat/Content/Characters/Mannequins/Animations/AI/ABP_EnemyAI.uasset",
 				"C:/Users/Jason/Documents/Unreal Projects/FabriCombat/Content/Characters/Mannequins/Animations/AI/BS_EnemyAI.uasset",
 				"C:/Users/Jason/Documents/Unreal Projects/FabriCombat/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
