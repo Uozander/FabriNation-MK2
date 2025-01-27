@@ -1,0 +1,189 @@
+[+] Containers:
+ |- [+] Container: /Game/TopDown/Maps/TopDownMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:1237DE30426B5C1DDABAC0B9EB856796 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1823663717 Label:BP_NewYork3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1940.568 Y=-576.509 Z=-158.436), Max=(X=-379.671 Y=1086.138 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:12F0850A4BE5405E5927F3B835FDA7E6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E99BA01_1338651508 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7499.997 Y=5170.000 Z=5901.503), Max=(X=7500.003 Y=15170.000 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:147C8D134B12D635012D5F8C57D2C96F BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:1742DF43475F097453197AA79C7473D9 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:1FEC8FAC495CEF0CE32492ADCBB96BAE BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:27CFDB3B4B3A7FE2C952F1A11A6F3816 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C687F001_1141109360 Label:BP_NewYork SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-511.719 Y=-2185.861 Z=-158.436), Max=(X=1150.923 Y=-624.969 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2D7164E646F0240546FF9FBA6D7AA4E9 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1831941719 Label:BP_NewYork5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-582.575 Y=1079.517 Z=-158.436), Max=(X=1080.072 Y=2640.414 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2DF0D95440BE0EDA81652F860DC7268E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:33C55B304E7DB8FDD990AD97756DABFD BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1842113722 Label:BP_NewYork8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=969.978 Y=-2103.916 Z=-158.436), Max=(X=2530.875 Y=-441.269 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3A8793214279BC89956A10802A500D83 BaseClass:/Game/Cityscape/BP_NewYork2.BP_NewYork2_C NativeClass:/Script/Engine.Actor Name:BP_NewYork2_C_UAID_906584AC18C68EF001_1246338591 Label:BP_NewYork9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2741.399 Y=-2791.005 Z=-117.273), Max=(X=5439.775 Y=203.617 Z=96.819) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3B95BA1F4DFDC538382084B368DA78D9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E99BA01_1442274509 Label:Plane2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7499.997 Y=-9355.000 Z=5901.503), Max=(X=7500.003 Y=645.000 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:524BD23C42FA9BC72E9695945D48B6E0 BaseClass:/Game/Blueprints/BP_SPAWN_Citizen.BP_SPAWN_Citizen_C NativeClass:/Script/Engine.Actor Name:BP_SPAWN_Citizen_C_UAID_CC96E5378338A84502_1137617927 Label:BP_SPAWN_Citizen SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=570.884 Y=-50.000 Z=-160.000), Max=(X=670.884 Y=50.000 Z=-60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:6252C7D64ACF162A73EE65B11FE214D1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:646323434DA48F9865127EA28190CF68 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1835008720 Label:BP_NewYork6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1004.052 Y=1226.285 Z=-158.436), Max=(X=2666.699 Y=2787.182 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:66BCBF874D2A22ADC6523B95EE812CA3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:6FA47B624BC74CE1A7FF439A01F959BA BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1827172718 Label:BP_NewYork4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1994.890 Y=1010.800 Z=-158.436), Max=(X=-433.993 Y=2673.448 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:77F893B3468595EE782136AD620D7EF4 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:89B8C0DC43DD020BE4F63C9D55325FA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E9ABA01_1183166688 Label:Plane4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8878.249 Y=-5471.821 Z=5901.503), Max=(X=1121.751 Y=9528.179 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:986E31504A93684799835A892EC5B0BC BaseClass:/Game/TopDown/Blueprints/BP_Camera.BP_Camera_C NativeClass:/Script/Engine.Pawn Name:BP_Camera_C_UAID_00155DAF9F8E98BA01_1483478330 Label:BP_Camera_Play SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=38.799 Y=-155.404 Z=-156.039), Max=(X=138.799 Y=-55.404 Z=-56.039) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9CD63A724AEBF8E2C7B4DEADD731531A BaseClass:/Game/Blueprints/BP_SPAWN_Enemy.BP_SPAWN_Enemy_C NativeClass:/Script/Engine.Actor Name:BP_SPAWN_Enemy_C_UAID_CC96E5378338A84502_1159284928 Label:BP_SPAWN_Enemy SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9950.000 Y=9950.000 Z=-160.000), Max=(X=10050.000 Y=10050.000 Z=-60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AA2ADA5D4C494B0F71E41CBE1560FCE2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E9ABA01_1175253687 Label:Plane3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5650.000 Y=-5471.821 Z=5901.503), Max=(X=15650.000 Y=9528.179 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AECEEEE741E6DE68F6843FA49564A956 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:B38A108844DF3511FF5F5CB81AB810FF BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1817173716 Label:BP_NewYork2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1940.568 Y=-2191.481 Z=-158.436), Max=(X=-379.671 Y=-528.834 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BDEC3B934D0E82F20D2B1EB0EC03EE05 BaseClass:/Game/TopDown/Blueprints/BP_Camera.BP_Camera_C NativeClass:/Script/Engine.Pawn Name:BP_Camera_C_UAID_00155DAF9F8E98BA01_1542860331 Label:BP_Camera_MapGen SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3229.289 Y=2450.000 Z=7929.289), Max=(X=3370.711 Y=2550.000 Z=8070.711) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CCDD89584E0A9025F52AEDA51D60CA54 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-1419.712 Z=-142.017), Max=(X=3100.000 Y=2280.288 Z=632.295) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- Guid:CF80F3F54843D87445FF46BC595650BA BaseClass: NativeClass:/Script/Niagara.NiagaraActor Name:NiagaraActor_UAID_906584AC18C688F001_2131142539 Label:NS_DUST SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1056.982 Y=1227.285 Z=483.791), Max=(X=-1054.982 Y=1229.285 Z=485.791) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CF90D5044AFDFFB9BFAD4BB1D0744D8D BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1837518721 Label:BP_NewYork7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1181.337 Y=-548.876 Z=-158.436), Max=(X=2742.234 Y=1113.771 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D24D61B944EF71BE7BC469B7EB239299 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- Guid:E13C3DEE4C2A85CE5335BBAA11BF5B5B BaseClass:/Game/Buildings/BP_TrainStation.BP_TrainStation_C NativeClass:/Script/Engine.Actor Name:BP_TrainStation_C_UAID_00155D7729389EB201_1372862935 Label:BP_TrainStation SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-323.600 Y=-340.384 Z=-118.694), Max=(X=323.600 Y=340.384 Z=48.178) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ED702DEB4F4A6D94A5DB4F9C337C2079 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_0 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2225.000 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F33CC5014C49925B3A9D52A063AF483F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=960.000 Y=1770.000 Z=-110.000), Max=(X=1040.000 Y=1850.000 Z=74.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:1237DE30426B5C1DDABAC0B9EB856796 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1823663717 Label:BP_NewYork3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1940.568 Y=-576.509 Z=-158.436), Max=(X=-379.671 Y=1086.138 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:12F0850A4BE5405E5927F3B835FDA7E6 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E99BA01_1338651508 Label:Plane SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7499.997 Y=5170.000 Z=5901.503), Max=(X=7500.003 Y=15170.000 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:147C8D134B12D635012D5F8C57D2C96F BaseClass: NativeClass:/Script/Engine.PostProcessVolume Name:PostProcessVolume_1 Label:PostProcessVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=400.000), Max=(X=200.000 Y=200.000 Z=600.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:1742DF43475F097453197AA79C7473D9 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_1 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=690.000), Max=(X=0.000 Y=0.000 Z=690.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:1FEC8FAC495CEF0CE32492ADCBB96BAE BaseClass: NativeClass:/Script/AIModule.NavLinkProxy Name:NavLinkProxy_3 Label:NavLinkProxy3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2240.000 Y=1030.000 Z=90.000), Max=(X=2240.000 Y=1030.000 Z=90.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:27CFDB3B4B3A7FE2C952F1A11A6F3816 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C687F001_1141109360 Label:BP_NewYork SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-511.719 Y=-2185.861 Z=-158.436), Max=(X=1150.923 Y=-624.969 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:2D7164E646F0240546FF9FBA6D7AA4E9 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1831941719 Label:BP_NewYork5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-582.575 Y=1079.517 Z=-158.436), Max=(X=1080.072 Y=2640.414 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:2DF0D95440BE0EDA81652F860DC7268E BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:33C55B304E7DB8FDD990AD97756DABFD BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1842113722 Label:BP_NewYork8 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=969.978 Y=-2103.916 Z=-158.436), Max=(X=2530.875 Y=-441.269 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:3A8793214279BC89956A10802A500D83 BaseClass:/Game/Cityscape/BP_NewYork2.BP_NewYork2_C NativeClass:/Script/Engine.Actor Name:BP_NewYork2_C_UAID_906584AC18C68EF001_1246338591 Label:BP_NewYork9 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=2741.399 Y=-2791.005 Z=-117.273), Max=(X=5439.775 Y=203.617 Z=96.819) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:3B95BA1F4DFDC538382084B368DA78D9 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E99BA01_1442274509 Label:Plane2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-7499.997 Y=-9355.000 Z=5901.503), Max=(X=7500.003 Y=645.000 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:524BD23C42FA9BC72E9695945D48B6E0 BaseClass:/Game/Blueprints/BP_SPAWN_Citizen.BP_SPAWN_Citizen_C NativeClass:/Script/Engine.Actor Name:BP_SPAWN_Citizen_C_UAID_CC96E5378338A84502_1137617927 Label:BP_SPAWN_Citizen SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=570.884 Y=-50.000 Z=-160.000), Max=(X=670.884 Y=50.000 Z=-60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:6252C7D64ACF162A73EE65B11FE214D1 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_1 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=1020.000), Max=(X=0.000 Y=0.000 Z=1020.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:646323434DA48F9865127EA28190CF68 BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1835008720 Label:BP_NewYork6 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1004.052 Y=1226.285 Z=-158.436), Max=(X=2666.699 Y=2787.182 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:66BCBF874D2A22ADC6523B95EE812CA3 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071 Label:SM_SkySphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:6FA47B624BC74CE1A7FF439A01F959BA BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1827172718 Label:BP_NewYork4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1994.890 Y=1010.800 Z=-158.436), Max=(X=-433.993 Y=2673.448 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:77F893B3468595EE782136AD620D7EF4 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_0 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=820.000), Max=(X=0.000 Y=0.000 Z=820.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:89B8C0DC43DD020BE4F63C9D55325FA1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E9ABA01_1183166688 Label:Plane4 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-8878.249 Y=-5471.821 Z=5901.503), Max=(X=1121.751 Y=9528.179 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:986E31504A93684799835A892EC5B0BC BaseClass:/Game/TopDown/Blueprints/BP_Camera.BP_Camera_C NativeClass:/Script/Engine.Pawn Name:BP_Camera_C_UAID_00155DAF9F8E98BA01_1483478330 Label:BP_Camera_Play SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=38.799 Y=-155.404 Z=-156.039), Max=(X=138.799 Y=-55.404 Z=-56.039) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:9CD63A724AEBF8E2C7B4DEADD731531A BaseClass:/Game/Blueprints/BP_SPAWN_Enemy.BP_SPAWN_Enemy_C NativeClass:/Script/Engine.Actor Name:BP_SPAWN_Enemy_C_UAID_CC96E5378338A84502_1159284928 Label:BP_SPAWN_Enemy SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=9950.000 Y=9950.000 Z=-160.000), Max=(X=10050.000 Y=10050.000 Z=-60.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:AA2ADA5D4C494B0F71E41CBE1560FCE2 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_00155DAF9F8E9ABA01_1175253687 Label:Plane3 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=5650.000 Y=-5471.821 Z=5901.503), Max=(X=15650.000 Y=9528.179 Z=5901.503) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:AECEEEE741E6DE68F6843FA49564A956 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_1 Label:DirectionalLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-4398046511104.000 Y=-4398046511104.000 Z=-4398046511104.000), Max=(X=4398046511104.000 Y=4398046511104.000 Z=4398046511104.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:B38A108844DF3511FF5F5CB81AB810FF BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1817173716 Label:BP_NewYork2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1940.568 Y=-2191.481 Z=-158.436), Max=(X=-379.671 Y=-528.834 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:BDEC3B934D0E82F20D2B1EB0EC03EE05 BaseClass:/Game/TopDown/Blueprints/BP_Camera.BP_Camera_C NativeClass:/Script/Engine.Pawn Name:BP_Camera_C_UAID_00155DAF9F8E98BA01_1542860331 Label:BP_Camera_MapGen SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=3229.289 Y=2450.000 Z=7929.289), Max=(X=3370.711 Y=2550.000 Z=8070.711) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:CCDD89584E0A9025F52AEDA51D60CA54 BaseClass: NativeClass:/Script/NavigationSystem.NavMeshBoundsVolume Name:NavMeshBoundsVolume_1 Label:NavMeshBoundsVolume SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-100.000 Y=-1419.712 Z=-142.017), Max=(X=3100.000 Y=2280.288 Z=632.295) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Navigation FolderGuid:AE45D61F453CC144CF8289862C276E89
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:CF80F3F54843D87445FF46BC595650BA BaseClass: NativeClass:/Script/Niagara.NiagaraActor Name:NiagaraActor_UAID_906584AC18C688F001_2131142539 Label:NS_DUST SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-1056.982 Y=1227.285 Z=483.791), Max=(X=-1054.982 Y=1229.285 Z=485.791) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:CF90D5044AFDFFB9BFAD4BB1D0744D8D BaseClass:/Game/Cityscape/BP_NewYork.BP_NewYork_C NativeClass:/Script/Engine.Actor Name:BP_NewYork_C_UAID_906584AC18C689F001_1837518721 Label:BP_NewYork7 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1181.337 Y=-548.876 Z=-158.436), Max=(X=2742.234 Y=1113.771 Z=8.579) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:D24D61B944EF71BE7BC469B7EB239299 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_1 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-5600.000 Y=-50.000 Z=-6850.000), Max=(X=-5600.000 Y=-50.000 Z=-6850.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Lighting FolderGuid:4C9334684BA61B42C769F799D2576455
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:E13C3DEE4C2A85CE5335BBAA11BF5B5B BaseClass:/Game/Buildings/BP_TrainStation.BP_TrainStation_C NativeClass:/Script/Engine.Actor Name:BP_TrainStation_C_UAID_00155D7729389EB201_1372862935 Label:BP_TrainStation SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-323.600 Y=-340.384 Z=-118.694), Max=(X=323.600 Y=340.384 Z=48.178) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:ED702DEB4F4A6D94A5DB4F9C337C2079 BaseClass: NativeClass:/Script/Engine.TextRenderActor Name:TextRenderActor_0 Label:TextRenderActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-0.100 Y=1100.000 Z=65.013), Max=(X=-0.100 Y=2225.000 Z=215.013) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:F33CC5014C49925B3A9D52A063AF483F BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_0 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=960.000 Y=1770.000 Z=-110.000), Max=(X=1040.000 Y=1850.000 Z=74.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/TopDown/Maps/TopDownMap
+----------------------------------------------------------------------------------------------------------------
+TopDownMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of TopDownMap Persistent Level
+ |- Always loaded Actor Count: 31 
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Camera_C_UAID_00155DAF9F8E98BA01_1483478330
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/B5/FCEA8MZKD1VE9K01CEGTVI
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_Camera_C_UAID_00155DAF9F8E98BA01_1542860331
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/8/02/SXOJOMTDKB1FQ865BO8Q3N
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork2_C_UAID_906584AC18C68EF001_1246338591
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/8H/SCPEXDOR6NHJH3E0WWH5JC
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C687F001_1141109360
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/7Z/NE7MRE37UYINZRV7SD8VJR
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C689F001_1817173716
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/0H/HR5XFPKCKM6UPYM5GJXRVV
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C689F001_1823663717
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/1Q/29FFD809LHPFYQ71DXLVCN
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C689F001_1827172718
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/AE/PU8WJ5ZAZYDEG53EVQH6QR
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C689F001_1831941719
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/2/22/BNVGY5IWUAF7QLW3KU5PBJ
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C689F001_1835008720
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/1/Z9/KDMVC2R0Y0TPFEVBP6785J
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C689F001_1837518721
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/J3/X7FEDO19XVNYO0SCB3MYSA
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_NewYork_C_UAID_906584AC18C689F001_1842113722
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/74/7UYZJDJWLZ6ZRG2S1EDZZM
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_SPAWN_Citizen_C_UAID_CC96E5378338A84502_1137617927
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/4P/SKINAI2PJPHSYFMVE06F80
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_SPAWN_Enemy_C_UAID_CC96E5378338A84502_1159284928
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/HT/9BCD9XOUDD7ZAJLCKL0UKJ
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_TrainStation_C_UAID_00155D7729389EB201_1372862935
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/3/YG/GWP74A1T90QH03XMQB9ICN
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.DirectionalLight_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/LM/VRK8UAZR3J2TAKS74SHCUD
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.ExponentialHeightFog_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/BO/BYV4KSLUROOOL33DU1XUWQ
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavLinkProxy_3
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/UT/JRUWL9PVCAH3XSUMXP4CC1
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NavMeshBoundsVolume_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.NiagaraActor_UAID_906584AC18C688F001_2131142539
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/YS/MRGAGTASCVALYZT69A6TI8
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.PlayerStart_0
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.PostProcessVolume_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/VI/ESHAVRHFZFA2JDR9ZAQIOE
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkyAtmosphere_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/5/YN/TCNGOWDVRBFBJ5YZR7VI7S
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.SkyLight_1
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/E/LR/47NTFRDFK6M7265A1UYTOW
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_00155DAF9F8E99BA01_1338651508
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/B/U6/1WCZCSM3SAYYZDW06Y7R1Y
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_00155DAF9F8E99BA01_1442274509
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/3T/ZDF466IW1RVBWN32OQP6OM
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_00155DAF9F8E9ABA01_1175253687
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/WH/WACQIFOMTQ7YJM0ZFM723A
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_00155DAF9F8E9ABA01_1183166688
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/0/M1/U0TYLYAQP2QMRCABL72IL4
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5CFB00_1660657071
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/C/MV/UE2U7GTDT7WM2AVP83861S
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.TextRenderActor_0
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.VolumetricCloud_0
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/6/GY/HOVAYB977GD5L9YGZ5S1T6
+ |- Actor Path: /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/A/RN/FHX05LPSBNMAJG3SW97PS7
+
+----------------------------------------------------------------------------------------------------------------
+TopDownMap - Runtime Spatial Hash
+----------------------------------------------------------------------------------------------------------------
+[+] StreamingGrids
+ |- [+] MainGrid
+ |   |-             Origin: X=0.000 Y=0.000 Z=0.000
+ |   |-          Cell Size: 12800
+ |   |-       World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |-      Loading Range: 25600.00
+ |   |- Block Slow Loading: No
+ |   |-  ClientOnlyVisible: No
+ |   |- 
+ |   |- [+] Grid Levels: 1
+ |   |   |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+ |   |- 
+ |   |- [+] Content of Grid Level 0
+ |   |- 
